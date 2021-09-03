@@ -1,0 +1,2 @@
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\BUSS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\BUSS\obj\Debug\BUS.csproj.CoreCompileInputs.cache

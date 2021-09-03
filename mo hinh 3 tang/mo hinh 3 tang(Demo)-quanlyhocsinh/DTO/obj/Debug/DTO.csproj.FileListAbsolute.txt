@@ -1,0 +1,6 @@
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\bin\Debug\DTO.dll
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\bin\Debug\DTO.pdb
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\obj\Debug\DTO.dll
+D:\Haui\semester 6\Windows\mo hinh 3 tang\mo hinh 3 tang(Demo)-quanlyhocsinh\DTO\obj\Debug\DTO.pdb
